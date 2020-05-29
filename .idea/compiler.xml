@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="learning-jdbc" target="11.0.4" />
+      <module name="learning-jdbc" target="1.8.0_251" />
     </bytecodeTargetLevel>
   </component>
 </project>
